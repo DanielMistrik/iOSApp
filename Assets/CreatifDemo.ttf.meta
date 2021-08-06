@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ecd9981abbd170e489a46e5d99ccd835
+timeCreated: 1490128196
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Creatif Demo
+  fontNames:
+  - Creatif Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
