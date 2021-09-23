@@ -1,6 +1,6 @@
 # iOSApp
 An arcade-style iOS game made with Unity3D called 'Warehouse Run'.<br>
-Available at: https://apps.apple.com/ml/app/warehouse-run/id1266624970 <br>
+Available at: <strike>https://apps.apple.com/ml/app/warehouse-run/id1266624970</strike> (Currently unavailable due to updates & reviews. I am actively working on it so it should be back within a week)<br>
 Note these are all the unity files needed to compile the iOS app not the actual compiled iOS app.
 ## Introduction
 This app was insipired by classic arcade-style games like Flappy Bird or really anything from the developers KetchApp. You play as a cardboard box in a industrial-warehouse setting trying to get past pieces of steel of differing sizes. 
